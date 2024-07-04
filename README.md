@@ -14,18 +14,13 @@ This project implements a disease prediction system based on symptoms provided b
 
 ## Setup
 
-1. **Clone the repository:**
+- **Clone the repository:**
 
    ```bash
    git clone https://github.com/NishatTasnim01/Medicine-Recommendation-System.git
    cd Medicine-Recommendation-System
    
-<-- 2. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt -->
-   
-3. **Run the application:**
+- **Run the application:**
 
    ```bash
    python app.py
@@ -36,5 +31,5 @@ This project implements a disease prediction system based on symptoms provided b
 - Click the "[Predict Disease](http://localhost:7860/)" button to see the predicted disease.
 - View detailed information about the predicted disease including its description, symptoms, medications, precautions, diet, and workouts.
 
-## Contributing
+## Contribute
 🚀 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
