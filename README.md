@@ -20,10 +20,10 @@ This project implements a disease prediction system based on symptoms provided b
    git clone https://github.com/NishatTasnim01/Medicine-Recommendation-System.git
    cd Medicine-Recommendation-System
    
-2. **Install dependencies:**
+<-- 2. **Install dependencies:**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt -->
    
 3. **Run the application:**
 
