@@ -1,6 +1,8 @@
 <h1 align="center">Medicine Recommendation System 🌡️</h1>
 
-This project implements a disease prediction system based on symptoms provided by the user using a machine learning model. Given a set of symptoms, the system predicts the most likely disease and provides additional information such as description, symptoms, medications, precautions, diet, and workout recommendations for the predicted disease. It employs a Support Vector Machine (SVM) model trained on symptom-disease mappings to make predictions.
+<p align="left">
+  This project implements a disease prediction system based on symptoms provided by the user using a machine learning model. Given a set of symptoms, the system predicts the most likely disease and provides additional information such as description, symptoms, medications, precautions, diet, and workout recommendations for the predicted disease. It employs a Support Vector Machine (SVM) model trained on symptom-disease mappings to make predictions.
+</p>
 
 ## Dependencies
 
@@ -29,9 +31,10 @@ This project implements a disease prediction system based on symptoms provided b
    python app.py
 
 ## Usage
-1. Enter symptoms in the provided text boxes.
-2. Click the "Predict Disease" button to see the predicted disease.
-3. View detailed information about the predicted disease including its description, symptoms, medications, precautions, diet, and workouts.
+
+- Enter symptoms in the provided text boxes.
+- Click the "[Predict Disease](http://localhost:7860/)" button to see the predicted disease.
+- View detailed information about the predicted disease including its description, symptoms, medications, precautions, diet, and workouts.
 
 ## Contributing
 🚀 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
