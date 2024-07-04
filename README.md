@@ -1,4 +1,4 @@
-<h2 align="center">Disease Prediction & Medicine Recommendation System⚕️</h2>
+<h2 align="center">Disease Prediction & Medicine Recommendation System 🚑</h2>
 
 <p align="left">
 This project implements a disease prediction system based on symptoms provided by the user using a machine learning model. Given a set of symptoms, the system predicts the most likely disease and provides additional information such as description, symptoms, medications, precautions, diet, and workout recommendations for the predicted disease. It employs a Support Vector Machine (SVM) model trained on symptom-disease mappings to make predictions.
